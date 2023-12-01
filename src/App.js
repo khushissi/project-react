@@ -19,7 +19,7 @@ const App= () =>{
         <Route path="/singleproduct" element={<SingleProduct/>}/>
         <Route path="/cart" element={<Cart/>}/>
 
-        
+        // onboarding
       </Route>
     </Routes>
   </BrowserRouter>
